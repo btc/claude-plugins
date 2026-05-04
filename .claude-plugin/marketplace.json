@@ -1,0 +1,16 @@
+{
+  "name": "btc-plugins",
+  "owner": "btc",
+  "description": "btc's personal plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "superpowers",
+      "description": "Fork of obra/superpowers with burndown-reviews — multi-model subagent review at the spec, plan, and impl checkpoints.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/btc/superpowers.git"
+      }
+    }
+  ]
+}
