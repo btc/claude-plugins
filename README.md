@@ -17,4 +17,4 @@ If you currently have upstream superpowers installed, uninstall it first:
 
 ## Source
 
-The fork lives at https://github.com/btc/superpowers (branch `burndown-reviews`).
+The fork lives at https://github.com/btc/superpowers on `main`.
